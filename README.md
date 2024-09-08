@@ -16,7 +16,7 @@ I'll try to answer it as soon as I can get to it. Once I answer I'll close the i
 
 #### 👀 Read old questions
 
-Check out the [Closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
+Check out the [closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
 ---
 
