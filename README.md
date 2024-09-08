@@ -1,35 +1,25 @@
-## thenocturnaldevgypsy/ama - Ask me anything!
+### thenocturnaldevgypsy/ama - Ask me anything!
 💬 Ask @thenocturnaldevgypsy about...anything you want, in my AMA repo. Ask questions. Receive answers. 
 
 This is a quick little ask-me-anything type of repository. Got the inspiration from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
----
+#### 🖐️ Ask a question
 
-### Ask a question
+Asking a question is as easy as [creating a new issue](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues/new) on this repo.
 
-Asking a question is as easy as
-[creating a new issue](https://github.com/mdo/ama/issues/new) on this
-project.
+I'll try to answer it as soon as I can get to it. Once I answer I'll close the issue just so I know what I've covered, but don't worry- if you have any further questions just respond in the thread and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create it.
 
-I'll try to answer it as soon as I can get to it. Once I answer I'll close the
-issue just so I know what I've covered, but don't worry- if you have any further
-questions just respond in the thread and I'll get back to you soon. Feel free to
-ask a question on any old issue too, even if you didn't create it.
+#### 👀 Read old questions
 
----
+Check out the [Closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
-### Read some questions
-
-Check out the [Closed Issues](https://github.com/mdo/ama/issues?sort=created&direction=desc&state=closed&page=1)
-filter on this repository to browse questions I've answered in the past. I try
-to use this as an email replacement that everyone can see, so feel free to dig
-into some of the older threads.
-
----
-
-### Twitter
-
-If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@mdo](https://twitter.com/mdo) on
-Twitter.
+#### 👾 Me web-where...
+[![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
+[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
+[![GitHub](https://img.shields.io/badge/GitHub-/thenocturnaldevgypsy-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy)
+[![Instagram](https://img.shields.io/badge/Instagram-/nocturnal.indigo-%2300416a?logo=instagram&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.instagram.com/nocturnal.indigo/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-%2300416a?logo=mastodon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://mastodon.social/@TheNocturnalDevGypsy)
+[![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
+[![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
