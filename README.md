@@ -4,8 +4,6 @@
 This is a quick little ask-me-anything type of repository. Got the inspiration from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
----
-
 #### 🖐️ Ask a question
 
 Asking a question is as easy as [creating a new issue](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues/new) on this repo.
@@ -16,15 +14,12 @@ You should be aware that this is a public repository, so the content you post he
 
 Sometimes I might not have a good answer for your question, but I'll do my best to give you a good answer if I have one!
 
----
-
 #### 👀 Read old questions
 
 Check out the [closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
----
-
 #### 👾 Me web-where...
+If you're just curious of who I am in general, feel free to check my other web presence.
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
