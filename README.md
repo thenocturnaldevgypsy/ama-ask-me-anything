@@ -11,7 +11,8 @@
    </a>
 </p>
 
-[![Support me via Ko-Fi](https://img.shields.io/badge/Ko%2DFi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Support me via Ko-Fi](https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
+
 
 
 
