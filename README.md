@@ -43,5 +43,5 @@ If you're just curious of who I am in general, feel free to check my other web p
 
 If you'd like to create your own AMA repository:
 - Click `Fork` at the top of this page.
-- Edit the `README.md` (make sure to change the name and links and all that) and make the necessary changes for the `shields.io` badges.
+- Edit the `README.md` (make sure to change the name and links and all that) and make the necessary changes for the `shields.io` badges codes.
 - Enable issues on your repository (they're in your fork's Settings page).
