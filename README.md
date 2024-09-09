@@ -7,11 +7,12 @@
    <img src="https://img.shields.io/badge/VERSION-2.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="VERSION 2.0.0">
    <img src="https://img.shields.io/badge/LAST%20UPDATE-10.09.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="LAST UPDATE 10.09.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
-      <img src="https://img.shields.io/badge/Support%20me%20via%20Ko%2DFi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
+   <img src="https://img.shields.io/badge/Ko%2DFi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
 </p>
 
-[![Support me via Ko-Fi](https://img.shields.io/badge/Support%20me%20via%20Ko%2DFi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
+[![Support me via Ko-Fi](https://img.shields.io/badge/Ko%2DFi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
+
 
 
 
