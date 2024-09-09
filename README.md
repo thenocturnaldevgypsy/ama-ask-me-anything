@@ -1,4 +1,4 @@
-### thenocturnaldevgypsy/ama - Ask me anything!
+## thenocturnaldevgypsy/ama - Ask me anything!
 💬 Ask [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) about...anything you want, in my AMA repo. Ask questions. Receive answers. 
 
 This is a quick little ask-me-anything type of repository. Got the inspiration from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
